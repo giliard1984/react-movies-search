@@ -1,6 +1,10 @@
 # Movies Search Engine
 
-The purpose of this project, is to showcase a few interesting concepts around React. For instance, a useDebounce hook is used to prevent users from hammering the endpoint. Some important states and methods are placed at the Context API level. Also, the use of the Outlet is leveraged here (It abstracts the layout component logic, so the children are injected into it, providing a new component (High-Order Components concept). 
+The purpose of this project, is to showcase a few interesting concepts around React.
+* For instance, a useDebounce hook is used to prevent users from hammering the endpoint.
+* Some important states and methods are placed at the Context API level.
+* Also, the use of the Outlet is leveraged here (It abstracts the layout component logic, so the children are injected into it, providing a new component (High-Order Components concept).
+* Lets not forget about the infinite scroll implementation, making the interation a little bit better for users.
 
 
 ## Technologies involved
