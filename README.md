@@ -34,3 +34,8 @@ Run `yarn run dev`
 ![image](https://github.com/user-attachments/assets/cf9919ae-bb4e-4839-960b-771bd72caa19)
 
 
+## Next steps
+
+This section aims to express the points that are either missing, or should be implemented, for this project to function better.
+
+* [ ] Implement skeleton, so when loading the new data, we can see it in a more friendly way
